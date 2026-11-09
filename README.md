@@ -4,3 +4,4 @@
 - Notion MCP：https://github.com/makenotion/notion-mcp-server
 - Scrapling：https://github.com/D4Vinci/Scrapling
 - security-audit-skill：https://github.com/cloudflare/security-audit-skill
+- sherlock：https://github.com/sherlock-project/sherlock
