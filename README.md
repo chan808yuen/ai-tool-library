@@ -1,4 +1,4 @@
-# Muse 工具位置
+# 共用收藏庫，自行取用更新
 
 - 技能組：https://github.com/anthropics/skills
 - Notion MCP：https://github.com/makenotion/notion-mcp-server
