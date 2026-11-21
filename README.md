@@ -7,3 +7,9 @@
 - security-audit-skill：https://github.com/cloudflare/security-audit-skill
 - sherlock：https://github.com/sherlock-project/sherlock
 - mattpocock/skills：https://github.com/mattpocock/skills
+- ffmpeg-skill：https://github.com/kajisho5/ffmpeg-skill
+- yfinance：https://github.com/ranaroussi/yfinance
+- akshare：https://github.com/akfamily/akshare
+- Scrapy：https://github.com/scrapy/scrapy
+- yt-dlp：https://github.com/yt-dlp/yt-dlp
+- markitdown：https://github.com/microsoft/markitdown
